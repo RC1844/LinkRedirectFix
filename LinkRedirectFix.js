@@ -1,6 +1,7 @@
 // ==UserScript==
 // @icon          
 // @name                简单链接重定向修复
+// @name:zh             简单链接重定向修复
 // @name:en             Simple link redirection fix
 // @namespace           RC1844.LinkRedirectFix
 // @author              RC1844
